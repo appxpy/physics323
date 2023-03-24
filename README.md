@@ -812,7 +812,7 @@ $$pV^{\frac{C - C_p}{C - C_V}} = const$$
 
 $$\boxed{pV^n = const, \quad n = \frac{C - C_p}{C - C_V}, \quad C = \frac{nC_v - C_p}{n-1}}$$
 
-<center>
+<div align="center">
 
 | Процесс        | Показатель Полинтропы | Формула    |
 | -------------- | --------------------- | ---------- |
@@ -821,7 +821,7 @@ $$\boxed{pV^n = const, \quad n = \frac{C - C_p}{C - C_V}, \quad C = \frac{nC_v -
 | Изотермический | **n=1**               | $pV = nkT$ |
 | Адиабатный     | **n= $\gamma$**       | -          |
 
-</center>
+</div>
 
 **<p style="text-align: center;">Макро- и микросостояния</p>**
 
