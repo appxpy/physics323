@@ -1015,7 +1015,7 @@ $$S_2 - S_1 = \int_1^2{\frac{dQ}{T}} \qquad (1)$$
 
 <p align="center">
   <figure>
-  <img src="./images/3.10.1.png" >
+  <img src="./images/3.10.1.png" width="300">
   <figcaption>Рис. 2. Необратимый цикл, который состоит из необратимого 1-a-2 и обратимого 2-b-1 циклов</figcaption>
   </figure>
 </p>
