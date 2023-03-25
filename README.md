@@ -1013,12 +1013,10 @@ $$S_2 - S_1 = \int_1^2{\frac{dQ}{T}} \qquad (1)$$
 
 В обратимом адиабатном процессе $dQ=0$. Поэтому из (1) имеем $S_2—S_1=0$ и $S_2=S_1$ , то есть в обратимом адиабатном процессе энтропия постоянна ( $S=const$ ).
 
-
-  <figure align="center">
+<p align="center">
   <img src="./images/3.10.1.png" width="300">
-  <figcaption>Рис. 2. Необратимый цикл, который состоит из необратимого 1-a-2 и обратимого 2-b-1 циклов</figcaption>
-  </figure>
-
+  <span>Рис. 2. Необратимый цикл, который состоит из необратимого 1-a-2 и обратимого 2-b-1 циклов</span>
+</p>
 
 
 <!-- **<p style="text-align: center;">Вывод формулы для приращения энтропии:</p>** -->
@@ -1257,9 +1255,11 @@ $$F = E - TS $$
 
 $$dF = dE - TdS - SdT$$
 
-$$dF \le \cancel{TdS} - pdV - \cancel{TdS} - SdT$$
+$$dF \le \cancel{TdS} - pdV - \cancel{TdS} - SdT$$ 
 
+$$dF \le -pdV - SdT$$
 
+$$dF \le 0$$
 
 
 
