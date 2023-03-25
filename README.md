@@ -1083,7 +1083,7 @@ $$
 
 $$
 \begin{align*}
-\Phi & = \Phi(\vec{r_1} - \vec{r_2}) + \Phi(\vec{r_1} - \vec{r_3}) + \dotsb + \Phi(\vec{r_2} - \vec{r_3}) + \dotsb =\end{align*}
+\Phi & = \Phi(\vec{r_1} - \vec{r_2}) + \Phi(\vec{r_1} - \vec{r_3}) + \Phi(\vec{r_2} - \vec{r_3}) + \dotsb =\end{align*}
 $$
 
 $$
