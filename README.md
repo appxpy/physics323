@@ -841,7 +841,7 @@ $${\displaystyle p\mathrm {d} V+V\mathrm {d} p=-p\mathrm {d} V\cdot {\frac {R}{C
 
 $${\displaystyle {\gamma}=1+{\frac {R}{C_{V}}}}$$
 
-$${\displaystyle {\gamma}\,p\mathrm {d} V+V\mathrm {d} p=0.}$$
+$${\displaystyle {\gamma} \cdot p\mathrm {d} V+V\mathrm {d} p=0.}$$
 
 Это уравнение можно переписать в виде
 
@@ -849,10 +849,10 @@ $${\displaystyle {\gamma}{\frac {dV}{V}}=-{\frac {dp}{p}},}$$
 
 что после интегрирования даёт:
 
-$${\displaystyle {\gamma}\,\ln V=-\ln p+\mathrm {const} .}$$
+$${\displaystyle {\gamma}\ln V=-\ln p+\mathrm {const} .}$$
 Потенцируя, получаем окончательно:
 
-$${\displaystyle p\,\cdot V^{\gamma }=\mathrm {const} ,}$$
+$${\displaystyle p\cdot V^{\gamma }=\mathrm {const} ,}$$
 
 что и является уравнением адиабатического процесса для идеального газа.
 
